@@ -118,7 +118,7 @@ function getDeliveryById(string memory packageId) public view returns (...)
 
 ## 🌐 Tech Stack
 
-- Solidity ^0.8.23
+- Solidity ^0.8.9
 - Hardhat
 - Ethers.js
 - Thirdweb CLI
@@ -128,7 +128,7 @@ function getDeliveryById(string memory packageId) public view returns (...)
 
 ## ✍️ Author
 
-**Aldi Nugraha** — _Junior Blockchain Engineer Technical Test_
+**Aldi Nugraha** Software Engineer | Blockchain Enthusiast_
 
 ---
 
