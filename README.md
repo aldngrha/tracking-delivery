@@ -16,7 +16,7 @@ This project implements a blockchain-based delivery tracking system for logistic
 ## 📁 Project Structure
 
 ```
-monorepo-root/
+root/
 ├── contracts/                # Smart contract logic & tests
 │   ├── contracts/
 │   │   └── TrackingDelivery.sol
